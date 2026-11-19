@@ -17,3 +17,4 @@ This workflow depends on external software, including:
 - [deepFPlearn](https://github.com/yigbt/deepFPlearn)
 - [SIRIUS](https://bright-giant.com/sirius-features/)
 - [MS2Tox nr.ahr](https://github.com/RaHub4AI/MS2bioactivity/tree/SIRIUS5)
+- [structural alert models](https://github.com/KWR-Water/StructuralAlerts/tree/main)
