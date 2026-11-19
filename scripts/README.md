@@ -8,7 +8,7 @@ This repository contains R-scripts and Python-scripts, which can be used to exec
 2. 2_patRoon_QC_check.R -> QC check of spiked samples
 3. 3_patRoon_NTS_and_prioritization.R -> feature finding using patRoon and prioritization using MS2Tox, MS2Quant and structural alerts
 4. 4_MS2bioactivity_nrahr.iypnb -> script to run MS2Tox nr.ahr activity model
-5. 5_rearrange_SIRIUS_output.R -> re-arrange SIRIUS output generated through patRoon, so that it is compatible with MLinvitroTox
+5. 5_rearrange_SIRIUS_output_for_MLinvitroTox.R -> re-arrange SIRIUS output generated through patRoon, so that it is compatible with MLinvitroTox
 
 ## Dependencies
 This workflow depends on external software, including:
