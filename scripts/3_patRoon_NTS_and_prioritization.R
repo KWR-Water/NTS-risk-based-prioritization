@@ -1,6 +1,6 @@
 #------------------------------------------------------------------------------#
 # NTS to risk assessment - feature finding using patRoon and prioritization    #
-# using MS2Tox, MS2bioactivity, MS2Quant, structural alerts and trends         #
+# using MS2Tox, MS2bioactivity, MS2Quant and structural alerts                 #
 #                                                                              #
 # HILIC only                                                                   #
 #                                                                              #
