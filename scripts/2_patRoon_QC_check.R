@@ -8,7 +8,6 @@
 #                                                                              #
 # R version 4.5.2                                                              #
 # patRoon version 2.3.4                                                        #
-# executed on VM CWG                                                           #
 #                                                                              #
 # Current version: 23 March 2026                                               #
 # 404300/028 (From NTS to risk assessment)                                     #
